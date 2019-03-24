@@ -5,6 +5,7 @@
 
 ### Junction
 [Alternative T slot junction connectors:](https://machineparts.iramkostore.com/groupcontent/81/mk-aluprofil/mk-25-gepepito-aluprofil-szeria-6-mm-horonnyal/kotoelemek-6-os-horony.html)
+[MC small 90 deg brace](https://www.mcmaster.com/47065t216)
 
 
 ### Hinge:
