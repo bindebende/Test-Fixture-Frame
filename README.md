@@ -1,6 +1,5 @@
 # TestFixtureFrame
 
-
 ## Essential:
 [Alternative Aluminum T slots:](https://machineparts.iramkostore.com/details/79/172832/mk-aluprofil/mk-25-gepepito-aluprofil-szeria-6-mm-horonnyal/aluprofilok-6-os-horony/aluprofil-mk-202501.html)
 
@@ -13,7 +12,7 @@
 
 ### End cap:
 
-[MC End cap:]()
+[MC End cap:](https://www.mcmaster.com/47065t91)
 
 [End cap:](https://machineparts.iramkostore.com/details/80/172856/mk-aluprofil/mk-25-gepepito-aluprofil-szeria-6-mm-horonnyal/aluprofil-kiegeszitok-6-os-horony/zarokupak.html)
 
@@ -26,18 +25,17 @@
 
 [Base plate holder:](https://machineparts.iramkostore.com/groupcontent/83/mk-aluprofil/mk-25-gepepito-aluprofil-szeria-6-mm-horonnyal/rogzitok-6-os-horony.html)
 
-
-
 ### Anti Slip:
 
 [MC Anti slip:](https://www.mcmaster.com/47065t721)
 [Alternative Anti slip:]()
 
-
+### Shock absorber
 [Shock absorber:]()
 
 
-
+### Tools for assembly:
+[Hole making JIG](https://www.mcmaster.com/80/20-compatible-t-slotted-framing)
 
 
 ## Features which won't be implemented in the first revison:
