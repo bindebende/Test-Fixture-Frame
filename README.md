@@ -1,15 +1,11 @@
-# TestFixtureFrame
+# Test Fixture Frame
 
-## Essential:
+## Alu profile:
 * [Alternative Aluminum T slots](https://machineparts.iramkostore.com/details/79/172832/mk-aluprofil/mk-25-gepepito-aluprofil-szeria-6-mm-horonnyal/aluprofilok-6-os-horony/aluprofil-mk-202501.html)
 
 ### Junction:
 * [Alternative T slot junction connectors](https://machineparts.iramkostore.com/groupcontent/81/mk-aluprofil/mk-25-gepepito-aluprofil-szeria-6-mm-horonnyal/kotoelemek-6-os-horony.html)
-* [MC small 90 deg brace](https://www.mcmaster.com/47065t216)
-
-
-### Hinge:
-* [Alternative Hinge](https://machineparts.iramkostore.com/groupcontent/84/mk-aluprofil/mk-25-gepepito-aluprofil-szeria-6-mm-horonnyal/zsanerok-6-os-horony.html)
+* [MC small corner brace](https://www.mcmaster.com/47065t216)
 
 ### End cap:
 
@@ -26,17 +22,32 @@
 
 * [Base plate holder](https://machineparts.iramkostore.com/groupcontent/83/mk-aluprofil/mk-25-gepepito-aluprofil-szeria-6-mm-horonnyal/rogzitok-6-os-horony.html)
 
-### Anti Slip:
+### Feet:
+
+* [MC Level mountig foot](https://www.mcmaster.com/47065T341)
 
 * [MC Anti slip](https://www.mcmaster.com/47065t721)
 * [Alternative Anti slip]()
 
+### Handle:
+* [MC handle](https://www.mcmaster.com/47065T164)
+
+### Latch:
+* [Push-to-Close Latch](https://www.mcmaster.com/5537T535)
+* [Slide Bolt Latch](https://www.mcmaster.com/47065T57)
+
 ### Shock absorber:
 * [Shock absorber]()
 
+## DUT Push lock:
+* [Locking pivot](https://www.mcmaster.com/47065T221)
 
-### Tools for assembly:
+
+## Tools for assembly:
 * [Hole making JIG](https://www.mcmaster.com/80/20-compatible-t-slotted-framing)
+* [Lot of bolt assembly]()
+* [Alternative Hinge](https://machineparts.iramkostore.com/groupcontent/84/mk-aluprofil/mk-25-gepepito-aluprofil-szeria-6-mm-horonnyal/zsanerok-6-os-horony.html)
+
 
 
 ## Features which won't be implemented in the first revison:
