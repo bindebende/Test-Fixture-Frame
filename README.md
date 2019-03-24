@@ -41,4 +41,4 @@
 
 
 ## Features which won't be implemented in the first revison:
-Laser position sensor
+Position sensor
