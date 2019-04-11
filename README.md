@@ -42,6 +42,10 @@
 ## DUT Push lock:
 * [Locking pivot](https://www.mcmaster.com/47065T221)
 
+## Electrical:
+### PSU:
+* [MeanWell 12V 25A](https://hu.farnell.com/mean-well/gst280a12-c6p/adaptor-ac-dc-12v-21a/dp/2815890)  
+
 
 ## Tools for assembly:
 * [Hole making JIG](https://www.mcmaster.com/80/20-compatible-t-slotted-framing)
